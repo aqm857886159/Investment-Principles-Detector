@@ -71,7 +71,12 @@ To run this application, ensure you have Python and the necessary libraries (Tki
 ## 安装
 要运行此应用程序，请确保你已安装Python和必要的库（Tkinter和PIL）。然后，只需运行脚本。
 
+
 ## 使用方法
 - 启动应用程序。
 - 按照屏幕上的提示确认你对每个投资原则的遵守情况。
 - 完成清单，自信地继续。
+
+![044ac1ac75098f1a00958554daa011c](https://github.com/user-attachments/assets/a2847b94-af9b-4e95-8e11-d614911904b5)
+![7d6949352bd8de74296a3a3e203f0b9](https://github.com/user-attachments/assets/f061b914-812b-4b2e-ae2e-f20327f3203f)
+
